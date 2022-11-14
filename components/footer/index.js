@@ -115,7 +115,7 @@ const Footer = () => {
 						</ul>
 					</div>
 					{/* right side of footer  */}
-					<div className='footer-button justify-self-center lg:justify-self-start flex flex-col gap-4 justify-between items-center col-start-1 lg:col-start-4 col-end-1 lg:col-end-5'>
+					<div className='w-full footer-button justify-self-center lg:justify-self-start flex flex-col gap-4 justify-between items-center col-start-1 lg:col-start-4 col-span-1 lg:col-span-2'>
 						<button className='btn btn-semi-rounded self-center lg:self-end'>
 							Request Invite
 						</button>
